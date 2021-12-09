@@ -1,0 +1,158 @@
+﻿name,style,difficulty,damageType,damage,durability,crowdControl,mobility,utility,roles
+애니,10,1,kMagic,3,1,3,1,2,['mage']
+올라프,4,2,kPhysical,2,2,2,1,1,"['fighter', 'tank']"
+갈리오,10,2,kMagic,2,3,3,2,1,"['tank', 'mage']"
+트위스티드 페이트,7,2,kMagic,3,1,2,2,2,['mage']
+신 짜오,4,1,kPhysical,2,2,2,2,1,"['fighter', 'assassin']"
+우르곳,6,2,kPhysical,2,2,2,1,1,"['fighter', 'tank']"
+르블랑,10,3,kMagic,3,1,2,3,1,"['assassin', 'mage']"
+블라디미르,10,2,kMagic,3,2,1,1,1,['mage']
+피들스틱,10,2,kMagic,3,1,3,1,1,"['mage', 'support']"
+케일,3,2,kMixed,3,1,1,1,3,"['fighter', 'support']"
+마스터 이,2,1,kPhysical,3,1,1,2,1,"['assassin', 'fighter']"
+알리스타,7,1,kMagic,1,3,3,1,2,"['tank', 'support']"
+라이즈,10,2,kMagic,3,1,2,2,2,"['mage', 'fighter']"
+사이온,7,1,kPhysical,2,3,3,1,1,"['tank', 'fighter']"
+시비르,2,2,kPhysical,3,1,1,1,2,['marksman']
+소라카,10,1,kMagic,1,1,2,1,3,"['support', 'mage']"
+티모,4,1,kMagic,3,1,2,1,2,"['marksman', 'assassin']"
+트리스타나,3,1,kPhysical,3,1,2,2,1,"['marksman', 'assassin']"
+워윅,4,1,kMixed,2,2,2,1,1,"['fighter', 'tank']"
+누누와 윌럼프,8,1,kMagic,1,3,2,1,2,"['tank', 'fighter']"
+미스 포츈,4,1,kPhysical,3,1,1,1,1,['marksman']
+애쉬,3,1,kPhysical,2,1,3,1,2,"['marksman', 'support']"
+트린다미어,2,1,kPhysical,3,2,1,2,1,"['fighter', 'assassin']"
+잭스,2,2,kMixed,3,2,2,2,1,"['fighter', 'assassin']"
+모르가나,10,1,kMagic,2,1,3,1,2,"['mage', 'support']"
+질리언,10,2,kMagic,2,1,2,2,3,"['support', 'mage']"
+신지드,10,2,kMagic,2,3,2,2,1,"['tank', 'fighter']"
+이블린,8,2,kMagic,2,2,1,2,2,"['assassin', 'mage']"
+트위치,1,2,kPhysical,3,1,1,2,1,"['marksman', 'assassin']"
+카서스,10,2,kMagic,3,1,1,1,2,['mage']
+초가스,7,1,kMagic,2,3,2,1,1,"['tank', 'mage']"
+아무무,9,1,kMagic,2,3,3,1,1,"['tank', 'mage']"
+람머스,7,1,kMixed,2,3,3,2,1,"['tank', 'fighter']"
+애니비아,10,3,kMagic,3,1,3,1,2,"['mage', 'support']"
+샤코,5,2,kPhysical,3,1,2,2,2,['assassin']
+문도 박사,6,1,kMixed,2,3,1,1,1,"['fighter', 'tank']"
+소나,9,1,kMagic,2,1,2,1,2,"['support', 'mage']"
+카사딘,9,2,kMagic,3,2,1,3,1,"['assassin', 'mage']"
+이렐리아,4,3,kMixed,2,2,2,3,2,"['fighter', 'assassin']"
+잔나,10,1,kMagic,1,1,3,1,3,"['support', 'mage']"
+갱플랭크,8,3,kPhysical,3,1,1,1,2,['fighter']
+코르키,5,2,kMixed,3,1,1,2,1,['marksman']
+카르마,10,1,kMagic,2,1,2,1,2,"['mage', 'support']"
+타릭,8,2,kMagic,1,2,2,1,3,"['support', 'fighter']"
+베이가,10,2,kMagic,3,1,3,1,1,['mage']
+트런들,3,1,kPhysical,2,3,1,1,2,"['fighter', 'tank']"
+스웨인,10,2,kMagic,2,2,2,1,1,"['mage', 'fighter']"
+케이틀린,2,1,kPhysical,3,1,2,2,1,['marksman']
+블리츠크랭크,9,1,kMagic,1,2,3,1,1,"['tank', 'fighter']"
+말파이트,8,1,kMagic,1,3,3,1,1,"['tank', 'fighter']"
+카타리나,10,3,kMagic,3,1,1,3,1,"['assassin', 'mage']"
+녹턴,4,1,kPhysical,3,1,2,2,2,"['assassin', 'fighter']"
+마오카이,8,1,kMagic,1,3,3,1,2,"['tank', 'mage']"
+레넥톤,5,1,kPhysical,2,2,2,2,1,"['fighter', 'tank']"
+자르반 4세,6,1,kPhysical,2,2,2,2,2,"['tank', 'fighter']"
+엘리스,7,3,kMagic,2,2,2,2,1,"['mage', 'fighter']"
+오리아나,9,2,kMagic,2,1,2,1,2,"['mage', 'support']"
+오공,6,1,kPhysical,2,2,2,2,1,"['fighter', 'tank']"
+브랜드,10,2,kMagic,3,1,2,1,1,['mage']
+리 신,6,3,kPhysical,3,2,2,3,1,"['fighter', 'assassin']"
+베인,1,2,kPhysical,3,1,2,2,1,"['marksman', 'assassin']"
+럼블,9,3,kMagic,3,2,2,1,1,"['fighter', 'mage']"
+카시오페아,10,3,kMagic,3,1,3,1,1,['mage']
+스카너,5,1,kMixed,1,3,3,1,1,"['fighter', 'tank']"
+하이머딩거,10,2,kMagic,3,1,2,1,2,"['mage', 'support']"
+나서스,3,1,kPhysical,2,3,2,1,1,"['fighter', 'tank']"
+니달리,8,3,kMagic,3,1,1,3,2,"['assassin', 'mage']"
+우디르,4,2,kMixed,2,3,2,2,1,"['fighter', 'tank']"
+뽀삐,8,2,kPhysical,2,3,3,2,1,"['tank', 'fighter']"
+그라가스,9,2,kMagic,2,3,3,2,1,"['fighter', 'mage']"
+판테온,8,1,kPhysical,3,2,2,2,1,"['fighter', 'assassin']"
+이즈리얼,1,1,kMagic,1,1,1,1,1,"['marksman', 'mage']"
+모데카이저,8,2,kMagic,3,2,1,1,2,['fighter']
+요릭,6,2,kMixed,2,2,2,1,2,"['fighter', 'tank']"
+아칼리,7,2,kMixed,3,1,1,3,1,['assassin']
+케넨,7,2,kMagic,3,1,3,1,1,"['mage', 'marksman']"
+가렌,8,1,kPhysical,2,3,1,1,1,"['fighter', 'tank']"
+레오나,9,1,kMagic,1,3,3,1,1,"['tank', 'support']"
+말자하,10,1,kMagic,3,1,3,1,2,"['mage', 'assassin']"
+탈론,7,2,kPhysical,3,1,1,2,1,['assassin']
+리븐,8,2,kPhysical,3,2,2,3,1,"['fighter', 'assassin']"
+코그모,2,2,kMixed,3,1,1,1,1,"['marksman', 'mage']"
+쉔,5,2,kMixed,2,3,2,2,3,['tank']
+럭스,9,1,kMagic,3,1,2,1,2,"['mage', 'support']"
+제라스,9,2,kMagic,3,1,2,1,1,['mage']
+쉬바나,6,1,kPhysical,2,2,1,2,1,"['fighter', 'tank']"
+아리,10,2,kMagic,3,1,2,3,1,"['mage', 'assassin']"
+그레이브즈,3,2,kPhysical,3,2,1,2,2,['marksman']
+피즈,9,3,kMagic,3,1,2,3,1,"['assassin', 'fighter']"
+볼리베어,4,1,kPhysical,2,3,2,2,1,"['fighter', 'tank']"
+렝가,4,2,kPhysical,3,1,2,2,1,"['assassin', 'fighter']"
+바루스,3,2,kPhysical,3,1,2,1,1,"['marksman', 'mage']"
+노틸러스,8,2,kMagic,1,3,3,1,1,"['tank', 'fighter']"
+빅토르,9,3,kMagic,3,1,2,1,1,['mage']
+세주아니,8,2,kMagic,2,2,3,2,1,"['tank', 'fighter']"
+피오라,3,3,kPhysical,3,2,2,2,2,"['fighter', 'assassin']"
+직스,9,2,kMagic,3,1,2,2,1,['mage']
+룰루,8,2,kMagic,2,1,2,1,3,"['support', 'mage']"
+드레이븐,2,3,kPhysical,3,1,1,2,1,['marksman']
+헤카림,7,2,kPhysical,2,2,2,2,1,"['fighter', 'tank']"
+카직스,6,2,kPhysical,3,1,1,2,1,['assassin']
+다리우스,6,2,kPhysical,3,2,2,1,1,"['fighter', 'tank']"
+제이스,5,2,kPhysical,3,1,1,2,2,"['fighter', 'marksman']"
+리산드라,10,2,kMagic,3,1,3,2,1,['mage']
+다이애나,7,1,kMagic,3,2,2,2,1,"['fighter', 'mage']"
+퀸,3,2,kPhysical,3,1,2,3,1,"['marksman', 'assassin']"
+신드라,10,2,kMagic,3,1,2,1,1,"['mage', 'support']"
+아우렐리온 솔,10,3,kMagic,3,1,2,2,1,['mage']
+케인,1,2,kPhysical,3,1,1,3,1,"['fighter', 'assassin']"
+조이,10,3,kMagic,3,1,2,2,1,"['mage', 'support']"
+자이라,10,2,kMagic,3,1,3,1,1,"['mage', 'support']"
+카이사,2,2,kMixed,3,1,0,3,1,['marksman']
+세라핀,10,1,kMagic,3,1,3,1,2,"['mage', 'support']"
+나르,5,3,kPhysical,2,3,2,2,1,"['fighter', 'tank']"
+자크,10,1,kMagic,2,3,3,2,1,"['tank', 'fighter']"
+야스오,3,3,kPhysical,3,1,2,3,2,"['fighter', 'assassin']"
+벨코즈,10,2,kMagic,3,1,2,1,1,['mage']
+탈리야,10,2,kMagic,3,1,2,1,3,"['mage', 'support']"
+카밀,4,3,kPhysical,3,2,2,3,1,"['fighter', 'tank']"
+아크샨,1,3,kPhysical,3,1,1,3,2,"['marksman', 'assassin']"
+브라움,9,2,kMagic,1,2,3,1,2,"['support', 'tank']"
+진,3,2,kPhysical,3,1,2,1,1,"['marksman', 'mage']"
+킨드레드,3,3,kPhysical,3,1,2,3,2,['marksman']
+징크스,2,2,kPhysical,3,1,2,1,1,['marksman']
+탐 켄치,7,1,kMagic,2,3,2,1,3,"['support', 'tank']"
+비에고,3,3,kPhysical,3,1,2,2,1,"['assassin', 'fighter']"
+세나,3,2,kPhysical,2,1,2,1,3,"['marksman', 'support']"
+루시안,4,2,kPhysical,3,1,1,3,1,['marksman']
+제드,6,3,kPhysical,3,1,1,3,1,['assassin']
+클레드,3,2,kPhysical,3,2,1,3,1,"['fighter', 'tank']"
+에코,8,3,kMagic,3,2,2,3,1,"['assassin', 'fighter']"
+키아나,7,3,kPhysical,3,1,2,2,1,"['assassin', 'fighter']"
+바이,6,1,kPhysical,2,2,3,2,1,"['fighter', 'assassin']"
+아트록스,3,2,kPhysical,3,3,2,2,2,"['fighter', 'tank']"
+나미,9,2,kMagic,1,1,3,1,2,"['support', 'mage']"
+아지르,5,3,kMagic,3,1,2,2,1,"['mage', 'marksman']"
+유미,10,1,kMagic,1,1,1,3,3,"['support', 'mage']"
+사미라,1,2,kPhysical,3,2,1,3,1,['marksman']
+쓰레쉬,8,3,kMagic,1,2,3,1,3,"['support', 'fighter']"
+일라오이,7,2,kPhysical,3,2,1,1,1,"['fighter', 'tank']"
+렉사이,4,2,kPhysical,2,2,2,2,2,['fighter']
+아이번,1,3,kMagic,1,1,3,2,3,"['support', 'mage']"
+칼리스타,2,3,kPhysical,3,1,1,3,2,['marksman']
+바드,7,3,kMagic,1,1,3,2,3,"['support', 'mage']"
+라칸,9,2,kMagic,1,2,3,3,3,['support']
+자야,4,2,kPhysical,3,2,3,1,1,['marksman']
+오른,7,2,kMixed,1,3,3,1,2,"['tank', 'fighter']"
+사일러스,7,3,kMagic,2,2,1,3,1,"['mage', 'assassin']"
+니코,8,1,kMagic,3,1,3,1,1,"['mage', 'support']"
+아펠리오스,3,3,kPhysical,3,1,2,1,1,['marksman']
+렐,9,2,kMagic,1,3,3,2,2,['tank']
+파이크,7,2,kPhysical,2,1,3,3,1,"['support', 'assassin']"
+벡스,9,2,kMagic,3,2,2,2,1,['mage']
+요네,5,3,kMixed,3,1,2,3,1,"['assassin', 'fighter']"
+세트,4,2,kPhysical,2,2,2,2,1,"['fighter', 'tank']"
+릴리아,8,3,kMagic,3,1,2,2,2,"['fighter', 'mage']"
+그웬,5,2,kMagic,3,2,1,3,1,"['fighter', 'assassin']"
