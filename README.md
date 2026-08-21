@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="OP.GG_데이터분석과정/busan_esports_project/캡처.PNG" alt="OP.GG 이스포츠 데이터 분석 실제 결과 화면" width="720" />
-</p>
-
 <h1 align="center">Data Analysis Archive</h1>
 
 <p align="center">OP.GG 기반 이스포츠 데이터 분석 교육 과정과 팀 프로젝트의 원본 실습 아카이브</p>
@@ -38,6 +34,12 @@ OP.GG_데이터분석과정/
 ## 대표 결과물
 
 실제 팀 발표 자료와 분석 결과 캡처는 `OP.GG_데이터분석과정/busan_esports_project/`에 보관되어 있습니다. 이 저장소는 학습·실험 아카이브이므로, 정제된 문제 정의·모델 결과·재현 가이드는 포트폴리오 저장소를 우선 참고합니다.
+
+<p align="center">
+  <img src="OP.GG_데이터분석과정/busan_esports_project/캡처.PNG" alt="OP.GG 이스포츠 데이터 분석 실제 결과 화면" width="720" />
+</p>
+
+<p align="center"><sub>원본 교육 과정에 보존된 분석 결과 화면</sub></p>
 
 ## 실행 방법
 
